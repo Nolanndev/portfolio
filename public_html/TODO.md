@@ -1,0 +1,7 @@
+- animation au survol du lien des contacts, faire apparaître le nom des sites en dessous des icones
+- faire voler les icones des langages dans la section 'compétences'
+- Faire une sorte de livre pour les compétences, en ayant les deux sections en blocs disctincts et toutes les deux penchées vers l'extérieur
+- Faire en sorte que lors de la navigation du menu, les titres de section en soient pas cachés par le menu
+- Lors du chargement de la page, faire l'effet déchiffrement de Hyperplexed sur mon nom
+- alterner la couleur de fond des section, et faire correspondre la couleur de fond des titres de section avec la couleur de la section précédente
+-
