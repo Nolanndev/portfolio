@@ -4,4 +4,5 @@
 - Faire en sorte que lors de la navigation du menu, les titres de section en soient pas cachés par le menu
 - Lors du chargement de la page, faire l'effet déchiffrement de Hyperplexed sur mon nom
 - alterner la couleur de fond des section, et faire correspondre la couleur de fond des titres de section avec la couleur de la section précédente
+- Implémenter une version responsive pour tablette et mobiles
 -
