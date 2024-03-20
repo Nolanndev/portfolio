@@ -34,7 +34,6 @@ header {
 	justify-content: space-between;
 	align-items: center;
 	overflow: hidden;
-	/* position: fixed; */
 	top: 0;
 	width: 100%;
 	background-color: var(--main-background-color);
@@ -48,6 +47,9 @@ header {
 	gap: 2rem;
 	font-size: var(--title-font-size);
 	color: black;
+}
+.header-title-link:visited {
+	color:black;
 }
 
 .header-title-surname,
@@ -112,7 +114,6 @@ header {
 
 #menu {
 	padding: 1rem;
-	position: fixed;
 	top: 40px;
 	right: 0;
 	display: flex;
@@ -126,6 +127,7 @@ header {
 	box-shadow: inset black 3px 3px;
 	border-top-left-radius: 1rem;
 	border-bottom-left-radius: 1rem;
+	background-color: #fcfbf4;
 	backdrop-filter: blur(30px);
 }
 
@@ -337,6 +339,9 @@ section h2 {
 	color: #000;
 }
 
+.linkedin-link {
+	border: 1px solid black;
+}
 /*** FOOTER ***/
 
 footer {

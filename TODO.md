@@ -1,8 +1,21 @@
-- animation au survol du lien des contacts, faire apparaître le nom des sites en dessous des icones
-- faire voler les icones des langages dans la section 'compétences'
-- Faire une sorte de livre pour les compétences, en ayant les deux sections en blocs disctincts et toutes les deux penchées vers l'extérieur
-- Faire en sorte que lors de la navigation du menu, les titres de section en soient pas cachés par le menu
-- Lors du chargement de la page, faire l'effet déchiffrement de Hyperplexed sur mon nom
-- alterner la couleur de fond des section, et faire correspondre la couleur de fond des titres de section avec la couleur de la section précédente
-- Implémenter une version responsive pour tablette et mobiles
--
+## Général
+
+- [ ] Trouver une vrai charte graphique
+
+- [ ] Implémenter le responsive
+- [ ] Lors du chargement de la page, mettre l'effet d'Hyperplexed
+
+## Sections
+
+- [ ] faire en sorte d'avoir un scroll qui snap sur les sections complètes
+- [ ] mettre un margin-top pour éviter le conflit avec le menu
+- [ ] alterner la couleur de fond de chaque section
+
+## Compétences
+
+- [ ] Garder les compétences container statiques
+- [ ] Ajouter les logos des compétences et les faire bouger aléatoirement sur la section
+
+## Contact
+
+- [ ] faire une carte qui lors du survol affiche le nom du lien en dessous de l'icone
