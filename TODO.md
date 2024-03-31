@@ -1,9 +1,9 @@
 ## Général
 
-- [ ] Trouver une vrai charte graphique
-
+- [ ] Implémenter un bouton pour remonter en haut de la page
+- [ ] Rajouter les tags de SEO dans le `<head>`
 - [ ] Implémenter le responsive
-- [ ] Lors du chargement de la page, mettre l'effet d'Hyperplexed
+- [ ] Ajouter des effets au chargement de la page
 
 ## Sections
 

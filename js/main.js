@@ -1,4 +1,4 @@
-alert("Ce site est en cours de construction, il n'est pour le moment disponible que pour les ordinateurs. Merci de votre compréhension");
+// alert("Ce site est en cours de construction, il n'est pour le moment disponible que pour les ordinateurs. Merci de votre compréhension");
 
 
 const letters = " AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz?";
