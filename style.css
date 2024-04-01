@@ -337,7 +337,6 @@ footer a {
 }
 
 @media only screen and (max-width: 1440px) {
-	* {outline: 1px solid red; outline: none;}
 	body {
 		width: 70%;
 	}
@@ -361,14 +360,12 @@ footer a {
 }
 
 @media only screen and (max-width: 1200px) {
-	* {outline: 1px solid blue;}
 	body {
 		width: 80%;
 	}
 }
 
 @media only screen and (max-width: 920px) {
-	* {outline: 1px solid green;}
 	body {
 		width: 95%;
 	}
